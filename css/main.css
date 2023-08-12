@@ -23,6 +23,16 @@
   font-size: 14px;
 }
 
+.chip-retrofit {
+  display: inline-block;
+  padding: 6px 12px;
+  margin: 4px;
+  background-color: #3EB489; /* Change this to the desired color */
+  color: white;
+  border-radius: 16px;
+  font-size: 14px;
+}
+
 .chip-jetpack-compose {
   display: inline-block;
   padding: 6px 12px;
