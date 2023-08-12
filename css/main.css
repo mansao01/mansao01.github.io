@@ -12,6 +12,17 @@
   border-radius: 16px;
   font-size: 14px;
 }
+
+.chip-firebase {
+  display: inline-block;
+  padding: 6px 12px;
+  margin: 4px;
+  background-color: #c2b304; /* Change this to the desired color */
+  color: white;
+  border-radius: 16px;
+  font-size: 14px;
+}
+
 .chip-jetpack-compose {
   display: inline-block;
   padding: 6px 12px;
