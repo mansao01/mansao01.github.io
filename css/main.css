@@ -5,11 +5,31 @@
 
 .chip {
   display: inline-block;
-  padding: 5px 10px;
-  margin-right: 5px;
-  background-color: #f0f0f0;
-  border-radius: 5px;
+  padding: 6px 12px;
+  margin: 4px;
+  background-color: #007bff; /* Change this to the desired color */
+  color: white;
+  border-radius: 16px;
   font-size: 14px;
+}
+
+.language-indicator-kotlin {
+  display: inline-block;
+  padding: 2px 8px;
+  font-size: 12px;
+  background-color: #7F52FF; /* Kotlin color identity (purple) */
+  color: #fff; /* Text color */
+  border-radius: 4px;
+  margin-top: 8px;
+}
+.language-indicator-js {
+  display: inline-block;
+  padding: 2px 8px;
+  font-size: 12px;
+  background-color: #FFD700; /* Yellow color */
+  color: #fff; /* Text color */
+  border-radius: 4px;
+  margin-top: 8px;
 }
 
 .timeline-card:before {
